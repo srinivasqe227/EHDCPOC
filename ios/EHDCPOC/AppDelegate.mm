@@ -1,3 +1,4 @@
+//Appdelegate file
 #import "AppDelegate.h"
 
 #import <React/RCTBundleURLProvider.h>
